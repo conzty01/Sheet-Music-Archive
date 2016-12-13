@@ -1,6 +1,6 @@
 # Sheet-Music Archive
 
-An archival python program that stores and recalls .pdf files based on their metadata.
+An archival python program that stores and recalls .pdf files based on their metadata.  Requires PDF2 module.
 
 ### Features:
 
